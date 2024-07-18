@@ -49,5 +49,6 @@ public class RealMobileTesting {
 		Thread.sleep(30000);
 		driver.findElement(By.xpath("//*[@text='Complete Transaction']")).click();
 		System.out.println("successfully completed");
+//
 	}
 }
